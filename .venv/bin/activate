@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/nari3/Documents/Flask BackEnd/.venv"
+VIRTUAL_ENV="/home/narie/Documents/Flask-BackEnd/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
